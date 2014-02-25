@@ -1,6 +1,8 @@
 # Minimalist examples of ES6 functionalities.
 
-Includes:
+![Brendan](http://i1.ytimg.com/vi/NJxB0Pp69IQ/maxresdefault.jpg)
+
+__Includes:__
 
 * Block scoping.
     
