@@ -24,10 +24,10 @@ __Includes:__
 
 * Template Literals.
 
+* Direct proxies.
+
 
 WIP:
-
-* Direct proxies.
 
 * Collections.
 
