@@ -26,6 +26,7 @@ __Includes:__
 
 * Direct proxies.
 
+* Object Observers.
 
 WIP:
 
@@ -33,4 +34,3 @@ WIP:
 
 * Modularity.
 
-* Object Observers.
