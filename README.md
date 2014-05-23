@@ -30,7 +30,5 @@ __Includes:__
 
 * Collections.
 
-WIP:
-
 * Modularity.
 
