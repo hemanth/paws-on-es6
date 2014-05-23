@@ -28,9 +28,9 @@ __Includes:__
 
 * Object Observers.
 
-WIP:
-
 * Collections.
+
+WIP:
 
 * Modularity.
 
