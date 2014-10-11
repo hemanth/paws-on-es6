@@ -22,6 +22,10 @@ __Includes:__
 
 * Better Object literals.
 
+* Computed property names.
+
+* Property method assignment.
+
 * Template Literals.
 
 * Direct proxies.
