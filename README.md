@@ -1,38 +1,40 @@
 # Minimalist examples of ES6 functionalities.
 
-![Brendan](http://i1.ytimg.com/vi/NJxB0Pp69IQ/maxresdefault.jpg)
+![Brendan](http://h3manth.com/i/Brendan.jpg)
 
 __Includes:__
 
-* Block scoping.
-    
-* Destructuring.
-    
-* Default parameter values.
-    
-* Rest parameters.
-    
-* Spread.
-
 * Arrow functions.
-
-* for-of loop.
-
-* Generators.
 
 * Better Object literals.
 
+* Block scoping.
+
+* Collections.
+
 * Computed property names.
 
-* Property method assignment.
+* Default parameter values.
 
-* Template Literals.
+* Destructuring.
 
 * Direct proxies.
 
+* Generators.
+
 * Object Observers.
 
-* Collections.
+* Property method assignment.
+
+* Rest parameters.
+
+* Spread.
+
+* Template Literals.
+
+* Unicode regex.
+
+* for-of loop.
 
 * Modularity.
 
