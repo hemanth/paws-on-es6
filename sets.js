@@ -1,5 +1,4 @@
 var cards = new Set()
-cards.add(♠)
 cards.add('♠')
 cards.add('♥')
 cards.add('♦')
