@@ -24,4 +24,4 @@ Would log:
 
 cards.add('♣')
 
-cards.size // Still for as ♣ was already there in the cards set.
+cards.size // Still four as ♣ was already there in the cards set.
