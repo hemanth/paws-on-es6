@@ -1,7 +1,7 @@
-var NegativeIndices = function(array) {
+let NegativeIndices = (array) => {
   return new Proxy(array, {
-    get: function(receiver, name) {
-      var index;
+    get: (receiver, name) => {
+      let index;
       console.log('Proxy#get', array, name);
       index = parseInt(name);
       if (!isNaN(index) && index < 0) {

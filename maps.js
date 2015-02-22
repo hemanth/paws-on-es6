@@ -5,5 +5,5 @@ m.has('answer');                //  true
 m.delete('answer');               //  true
 m.has('answer');                  //  false
 
-m.set(keyFunc,function() {return "foo";});
+m.set(keyFunc,() => "foo");
 m.get(keyFunc)(); // "foo"

@@ -10,16 +10,14 @@ cards.has('joker') //false
 
 cards.size //4
 
-cards.forEach(function(card){
-	console.log(card)
-});
+cards.forEach((card) => console.log(card));
 
 /*
 Would log:
-♠ 
-♥ 
-♦ 
-♣ 
+♠
+♥
+♦
+♣
 */
 
 cards.add('♣')

@@ -1,4 +1,4 @@
-function aboutme(){
+var aboutme = () => {
   {
     var wife = 1;
     let gfs = 10;
