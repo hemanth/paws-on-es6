@@ -4,37 +4,46 @@
 
 __Includes:__
 
-* Arrow functions.
+* [array-comprehension](./array-comprehension.js)
 
-* Better Object literals.
+* [arrow](./arrow.js)
 
-* Block scoping.
+* [block-scope](./block-scope.js)
 
-* Collections.
+* [class](./class.js)
 
-* Computed property names.
+* [computed-property-names](./computed-property-names.js)
 
-* Default parameter values.
+* [default-params](./default-params.js)
 
-* Destructuring.
+* [destructuring](./destructuring.js)
 
-* Direct proxies.
+* [direct-proxy](./direct-proxy.js)
 
-* Generators.
+* [for-of](./for-of.js)
 
-* Object Observers.
+* [generators](./generators.js)
 
-* Property method assignment.
+* [maps](./maps.js)
 
-* Rest parameters.
+* [object-literal](./object-literal.js)
 
-* Spread.
+* [object-observe](./object-observe.js)
 
-* Template Literals.
+* [property-method-assignment](./property-method-assignment.js)
 
-* Unicode regex.
+* [rest-params](./rest-params.js)
 
-* for-of loop.
+* [sets](./sets.js)
 
-* Modularity.
+* [spread](./spread.js)
 
+* [symbols](./symbols.js)
+
+* [tail-recursion](./tail-recursion.js)
+
+* [template-literals](./template-literals.js)
+
+* [unicode-regex](./unicode-regex.js)
+
+* [weakmaps](./weakmaps.js)
