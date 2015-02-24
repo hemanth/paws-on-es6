@@ -1,4 +1,4 @@
-ler person = {
+let person = {
   get name() {
     return this._name;
   },
