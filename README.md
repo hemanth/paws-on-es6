@@ -26,6 +26,8 @@ __Includes:__
 
 * [maps](./maps.js)
 
+* [modules](./modules.js)
+
 * [object-literal](./object-literal.js)
 
 * [object-observe](./object-observe.js)
