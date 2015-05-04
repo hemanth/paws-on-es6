@@ -14,7 +14,7 @@ let NegativeIndices = (array) => {
 };
 
 /*
-* Negitve array indices:
+* Negative array indices:
 * array = NegativeIndices [4, 420, 42]
 * array[-1] is 42
 */
