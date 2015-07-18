@@ -4,8 +4,6 @@
 
 __Includes:__
 
-* [array-comprehension](./array-comprehension.js)
-
 * [arrow](./arrow.js)
 
 * [block-scope](./block-scope.js)
