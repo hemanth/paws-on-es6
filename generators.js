@@ -6,7 +6,7 @@ function *Counter(){
   }
 }
 
-var CountIter = new Counter();
+var CountIter = Counter();
 
 CountIter.next(); // {value: 0, done:false}
 CountIter.next(); // {value: 1, done:false}
