@@ -47,3 +47,5 @@ __Includes:__
 * [unicode-regex](./unicode-regex.js)
 
 * [weakmaps](./weakmaps.js)
+
+* [weaksets](./weakset.js)
