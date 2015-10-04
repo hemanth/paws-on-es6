@@ -1,5 +1,7 @@
 # Minimalist examples of ES6 functionalities.
 
+> You might like [jsfeatures.in](http://jsfeatures.in/)
+
 ![Brendan](http://h3manth.com/i/Brendan.jpg)
 
 __Includes:__
