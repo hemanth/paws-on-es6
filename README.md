@@ -50,4 +50,4 @@ __Includes:__
 
 * [weakmaps](./weakmaps.js)
 
-* [weaksets](./weakset.js)
+* [weaksets](./weaksets.js)
