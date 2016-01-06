@@ -12,6 +12,6 @@ wm.get(wmk); // "life"
 
 wm.has(wmk); // true
 
-wm.delete(wmk); // true
+wmk = undefined;
 
 wm.has(wmk); //false
