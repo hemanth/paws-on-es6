@@ -32,6 +32,8 @@ __Includes:__
 
 * [object-observe](./object-observe.js)
 
+* [promise](./promise.js)
+
 * [property-method-assignment](./property-method-assignment.js)
 
 * [rest-params](./rest-params.js)
