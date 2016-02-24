@@ -1,10 +1,10 @@
 # Minimalist examples of ES6 functionalities.
 
+> You might like [jsfeatures.in](http://jsfeatures.in/)
+
 ![Brendan](http://h3manth.com/i/Brendan.jpg)
 
 __Includes:__
-
-* [array-comprehension](./array-comprehension.js)
 
 * [arrow](./arrow.js)
 
@@ -49,3 +49,5 @@ __Includes:__
 * [unicode-regex](./unicode-regex.js)
 
 * [weakmaps](./weakmaps.js)
+
+* [weaksets](./weaksets.js)
