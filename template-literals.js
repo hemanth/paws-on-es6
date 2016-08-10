@@ -1,6 +1,6 @@
 let First = "Hemanth";
 let Last = " HM";
-`${ First } + ${ Last } = ${ First + Last}`  // "Hemanth + HM = Hemanth HM"
+`${ First } + ${ Last } = ${ First + Last}`
 
 
 let multiLine = `<html>

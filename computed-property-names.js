@@ -6,5 +6,5 @@ var obj = {
   baz: "baz"
 };
 
-console.log( obj.foobar ); // o_0
-console.log( obj.foobaz ); // 0_o 
+console.log( obj.foobar );
+console.log( obj.foobaz ); 
