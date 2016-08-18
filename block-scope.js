@@ -1,4 +1,23 @@
 var aboutme = () => {
+  var investment
+  {
+    investment = 1;
+    // let salary = 10;
+  }
+  console.log(investment);
+  // console.log(investment, salary);
+}
+
+var aboutme = () => {
+  {
+    //var investment = 1;
+    let salary = 10;
+    console.log(salary);
+  }
+  // console.log(investment, salary);
+}
+
+var aboutme = () => {
   {
     var investment = 1;
     const salary = 10;
@@ -6,7 +25,17 @@ var aboutme = () => {
   console.log(investment, salary);
 }
 
-for (let i = 0; i<10; i++) {}
+for (var i = 0; i<10; i++) {}
+console.log(i);
+
+var i
+
+for (i = 0; i<10; i++) {}
+console.log(i);
+
+for (let i = 0; i<10; i++) {
+
+}
 console.log(i);
 
 

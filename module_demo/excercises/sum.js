@@ -1,7 +1,7 @@
-var a = 1
+export var a = 1
 
-var b = 2
+export var b = 2
 
-function sum(x, y) {
+export default function(x, y) {
   return x + y
 }
