@@ -16,3 +16,15 @@ for (var j = 0; j != arr.length; j++) {
 
 // Oops.
 var endingRipple = ripples[i];
+
+
+switch (endingRipple) {
+    case 'a':
+        var a = 1
+        console.log('a', a)
+        break
+    default:
+        console.log('default')
+}
+
+console.log(a)
