@@ -25,7 +25,9 @@ var aboutme = () => {
   console.log(investment, salary);
 }
 
-for (var i = 0; i<10; i++) {}
+for (var i = 0; i<10; i++) {
+  var l = 'a'
+}
 console.log(i);
 
 var i

@@ -1,3 +1,7 @@
+var abc = {foo: "lorem", bar: "ipsum"};
+
+
+
 var {foo, bar} = {foo: "lorem", bar: "ipsum"};
 
 
