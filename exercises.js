@@ -8,10 +8,58 @@ function initialize(options) {
     var actors = options.actors || {}
 }
 
+const initialize = ({
+    controls,
+    models, 
+    reducers, 
+    actors
+  }) =>
+  console.log(controls)
+}
+
+const initialize = (options) => {
+  const {
+    controls = {},
+    models, 
+    reducers, 
+    actors
+  } = options
+  console.log(controls)
+}
+
+const initialize = ({
+  controls = {},
+  models = {}, 
+  reducers = {}, 
+  actors = {}
+}) => {
+  console.log(controls)
+}
+
 // computed property name
-var obj = {}
+// var obj = {}
 var key = 'person'
-obj[key] = 'Bin'
+// obj[key] = 'Bin'
+
+// {
+//   person: 'Bin'
+// }
+
+const obj = {
+  [key]: 'Bin'
+}
+
+const obj = {
+  [foo + bar]: "o_0",
+  [foo + baz]: "0_o",
+  foo: "foo",
+  bar: "bar",
+  baz: "baz"
+}
+
+
+
+/////
 
 var arr = ['a', 'b', 'c']
 
@@ -20,11 +68,30 @@ for (var i in arr) {
 }
 // expect a, b, c
 
+for (const element of arr){
+  console.log(element)
+}
 
 // object literal & template literals
 var greet = {
   hello: function(name) {
     return "hello " + name
+  }
+}
+
+const greet = {
+  hello : (name) => {
+    return `hello ${name}`
+  }
+}
+
+const greet = {
+  hello : (name) => `hello ${name}`
+}
+
+const greet = {
+  hello(name) {
+    return `hello ${name}`
   }
 }
 
@@ -42,8 +109,13 @@ const getStuffRemotely = () => {
 
 // rest params
 
-function sum() {
-
+function sum(...args) {
+  let rt = 0
+  for (const e of args) {
+    rt += e
+  }
+  console.log('asfasd')
+  return rt
 }
 
 sum(1, 2, 3, 4) // = 10
