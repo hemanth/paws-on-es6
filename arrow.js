@@ -1,6 +1,18 @@
 let obj = {
   method: function () {
-    return () => this;
+    return function () {
+      return this;
+    }
+  }
+};
+
+let obj = {
+  method: function () {
+    return () => {
+      return () => {
+        return this
+      };
+    }
   }
 };
 // Due to lexical scope obj.method()() <===> obj
